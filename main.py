@@ -28,7 +28,7 @@ async def on_ready():
         status=nextcord.Status.idle,
         activity=nextcord.Activity(
             type=nextcord.ActivityType.watching,
-            name='Airbus')
+            name='Techniq Bot Company')
     )
     print('Airbus_bot is up and ready to serve!')
 
